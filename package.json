@@ -1,0 +1,9 @@
+{
+  "name": "SofaQueue",
+  "version": "0.0.1",
+  "description": "A message queue using couchdb as the data layer",
+  "dependencies": {
+    "request": "*",
+    "node-uuid": "*"
+  }
+}
